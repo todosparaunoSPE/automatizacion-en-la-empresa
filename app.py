@@ -167,3 +167,6 @@ st.download_button(label="Descargar Reporte Excel",
                    data=buffer,
                    file_name="reporte_empleados.xlsx",
                    mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet")
+
+
+st.sidebar.write("© 2024 jahoperi")
