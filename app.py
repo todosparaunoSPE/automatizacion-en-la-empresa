@@ -13,7 +13,7 @@ st.title("Gestión Inteligente de Capacitación y Promociones de Empleados")
 # Sidebar - Sección de Ayuda
 st.sidebar.header("Ayuda")
 st.sidebar.write("""
-**Integración de Bases de Datos Reales:**
+**Integración de Bases de Datos Ficticios:**
 - Visualiza los datos de empleados ficticios cargados desde un archivo Excel.
 - Filtra empleados por subdirección y puesto actual para ver información específica.
 
